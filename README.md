@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, you can call me Cambie 👋 
+### Cybersecurity Enthusiast, CTF Player & Skidware.
 
-<!--
-**0xCambie/0xCambie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I used to work with CNC Machines, CAD and CAM software to design and develop mechanical parts.
 
-Here are some ideas to get you started:
+Early 2022 I decided to get serious on Linux. A few months later I discovered Cybersecurity and I have not been able to stop learning since.
+Currently, I'm interested in Red team operations, pentesting and both malware development and analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I do a lot of CTF challenges in order to sharpen my skills.
+<p align="center"> 
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Cambie.png" alt="TryHackMe" width="220" height="50" /> 
+  <img src="http://www.hackthebox.eu/badge/image/1160491" alt="Hack The Box" />
+</p>
+
+Here's a list of the tecnology I'm most confortable Using!
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,py,bash,arduino,linux,mysql,sqlite,docker,kubernetes,git,github,latex" />
+</p>
+
+And Here's what I'm currently learning!
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,php,java,powershell,azure,aws,jenkins,ansible,nodejs,graphql" />
+</p>
