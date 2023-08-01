@@ -1,5 +1,5 @@
 # Hi there, you can call me Cambie 👋 
-### Cybersecurity Enthusiast, CTF Player & Skidware.
+### Cybersecurity Enthusiast, CTF Player & Skidware Analyst.
 
 I used to work with CNC Machines, CAD and CAM software to design and develop mechanical parts.
 
