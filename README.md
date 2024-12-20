@@ -4,7 +4,7 @@
 I used to work with CNC Machines, CAD and CAM software to design and develop mechanical parts.
 
 Early 2022 I decided to get serious on Linux. A few months later I discovered Cybersecurity and I have not been able to stop learning since.
-Currently, I'm interested in Red team operations, pentesting and both malware development and analysis.
+Currently, I'm interested in Red team operations, pentesting and both malware analysis and development.
 
 I do a lot of CTF challenges in order to sharpen my skills.
 <p align="center"> 
