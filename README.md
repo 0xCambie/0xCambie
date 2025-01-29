@@ -23,3 +23,5 @@ And Here's what I'm currently learning!
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,php,java,powershell,azure,aws,jenkins,ansible,nodejs,graphql" />
 </p>
+
+[Here in my blog](https://0xcambie.github.io/cambie/) you'll find things about me and things I care about.
