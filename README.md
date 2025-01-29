@@ -10,7 +10,7 @@ In January 2025 I decided I would ship my own Linux Distribution and thats how I
 
 I used to and still do a lot of CTF challenges in order to sharpen my skills.
 <p align="center"> 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Cambie.png" alt="TryHackMe" /> 
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Cambie.png" alt="TryHackMe" width="220" height="54" /> 
   <img src="http://www.hackthebox.eu/badge/image/1160491" alt="Hack The Box" />
 </p>
 
