@@ -6,7 +6,7 @@ I used to work with CNC Machines, CAD and CAM software to design and develop mec
 Early 2022 I decided to get serious on Linux. A few months later I discovered Cybersecurity and I have not been able to stop learning since.
 Currently, I'm interested in Red team operations, pentesting and both malware analysis and development.
 
-In January 2025 I decided I would ship my own Linux Distribution and thats how I became the creator and mantainer of [MalbianLinux](https://github.com/MalbianLinux)
+In January 2025 I decided I would ship my own Linux Distribution and thats how I became the creator and maintainer of [MalbianLinux](https://github.com/MalbianLinux)
 
 I used to and still do a lot of CTF challenges in order to sharpen my skills.
 <p align="center"> 
