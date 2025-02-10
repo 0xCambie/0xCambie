@@ -7,7 +7,8 @@ Early 2022 I decided to get serious on Linux. A few months later I discovered Cy
 Currently, I'm interested in Red team operations, pentesting and both malware analysis and development.
 
 In January 2025 I decided I would ship my own Linux Distribution and thats how I became the creator and maintainer of [MalbianLinux](https://github.com/MalbianLinux)
-You can support me or Malbian [Here](https://0xcambie.github.io/cambie/donate/)
+
+You can support me or Malbian [here in my blog](https://0xcambie.github.io/cambie/donate/)
 
 I used to and still do a lot of CTF challenges in order to sharpen my skills.
 <p align="center"> 
@@ -24,5 +25,3 @@ And Here's what I'm currently learning!
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,php,java,powershell,azure,aws,jenkins,ansible,nodejs,graphql" />
 </p>
-
-[
