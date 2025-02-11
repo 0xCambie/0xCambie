@@ -10,7 +10,7 @@ In January 2025 I decided I would ship my own Linux Distribution and thats how I
 
 You can support me or Malbian [here in my blog](https://0xcambie.github.io/cambie/donate/).
 
-You can also be part of the project by joining our [discord](https://discord.com/invite/jJ6h2eVF).
+You can also be part of the project by joining our [Discord Server](https://discord.com/invite/jJ6h2eVF).
 
 I used to and still do a lot of CTF challenges in order to sharpen my skills.
 <p align="center"> 
