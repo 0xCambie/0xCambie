@@ -8,7 +8,7 @@ Currently, I'm interested in Red team operations, pentesting and both malware an
 
 In January 2025 I decided I would ship my own Linux Distribution and thats how I became the creator and maintainer of [Malbian Linux](https://github.com/MalbianLinux)
 
-You can support me or Malbian [here in my blog](https://0xcambie.github.io/cambie/donate/).
+You can support me or Malbian [here in my blog](https://0xcambie.github.io/donate/).
 
 I used to and still do a lot of CTF challenges in order to sharpen my skills.
 <p align="center"> 
